@@ -29,3 +29,5 @@ Collate:
     'fdicFilter.R'
     'fdicQuery.R'
     'data.R'
+URL: https://github.com/johnellis30/fdic
+BugReports: https://github.com/johnellis30/fdic/issues
